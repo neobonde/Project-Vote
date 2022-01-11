@@ -1,0 +1,28 @@
+{
+  "name": "project-vote",
+  "version": "1.0.0",
+  "description": "A Scrum Refinement Voting Web Application",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^9.6.2",
+    "npm": "^8.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neobonde/Project-Vote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neobonde/Project-Vote/issues"
+  },
+  "homepage": "https://github.com/neobonde/Project-Vote#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
